@@ -4,6 +4,6 @@ while (username != 'admin') {
 
 }
 while (password != 'admin') {
-  alert('Nein');
-  window.replace(https://freddielabertasche94.github.io/wunschliste/nope.html);
+  alert('Seite neuladen');
+
 }
