@@ -9,4 +9,4 @@ while (password != 'admin') {
 
 }
 }
-login
+login()
